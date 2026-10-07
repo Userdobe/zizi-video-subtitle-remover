@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.preview_frame.png
+.work/
+.pytest_cache/
+.venv/
+venv/
+env/
+dist/
+build/
+*.spec
+.DS_Store
+Thumbs.db
+.env
